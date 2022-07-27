@@ -1,0 +1,27 @@
+h1{
+    font-size: 200px;
+    color: red;
+}
+
+/* Language: css */
+
+img.bacon{
+    background-color: red;
+}
+
+.veggie{
+    background-color: green;
+}
+
+#heading{
+    color:blue;
+}
+
+.circular {
+    border-radius: 2000px;
+}
+
+img:hover{
+    background-color: goldenrod;
+}
+
